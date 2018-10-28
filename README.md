@@ -1,2 +1,6 @@
 # machine-learning
-Collection of Machine Learning algorithms with Python
+Exercises of Machine Learning.
+
+References:
+[1] Data Science, Sinan Ozdemir
+[2] Machine Learning with Python, Sebastian Raschka
